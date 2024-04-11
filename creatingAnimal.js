@@ -1,3 +1,4 @@
+//Importerat in Animal classen
 const { Animal } = require("./person")
 
 //Skapa en katt

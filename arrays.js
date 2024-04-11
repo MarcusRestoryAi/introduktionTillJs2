@@ -2,8 +2,8 @@
 const colors = ["Green", "Red", "Blue", "Yellow"];
 
 console.log(colors[2])
-colors[1] = "Purple"
 
+colors[1] = "Purple"
 console.log(colors[1])
 
 colors.push("White")
